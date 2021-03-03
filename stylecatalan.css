@@ -1,0 +1,40 @@
+.p{
+  display:inline;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  background: rgba(204, 171, 88,1);
+  color: beige;
+}
+.bg-mateo {
+  background-color:rgba(211, 183, 111,0.6);
+}
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+.Titulo {
+  color: rgba(18, 18, 18,1);
+}
+.Texto {
+  margin: 20px;
+}
+.parrafo {
+  font-size: 20px;
+}
+.Subtitulo{
+  color: rgba(30, 24, 14, 1);
+}
+.Imagen{
+  margin-bottom: 20px;
+}
+.centrado{
+  text-align:center
+}
+.piedepagina {
+  margin-top: 20px;
+}
+.etiqueta{
+  width: 80px;
+}
